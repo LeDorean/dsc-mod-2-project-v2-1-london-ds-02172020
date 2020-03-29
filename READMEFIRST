@@ -13,5 +13,6 @@ triangulation.ipynb (feature engineering to calculate approximate distance to wa
 student.ipynb (project submission info)
 
 Other:
+presentation.pdf (pdf version of powerpoint presentation - note that the model itself was updated after the presentation, so some slides are somewhat out of date but there is not much difference)
 column_names.md (glossary of column names for the project dataset)
 READMEFIRST.txt (the document you are looking at right now)
