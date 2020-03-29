@@ -1,0 +1,17 @@
+Welcome to Luc & Vittorio's mod 2 project.
+In this repo you will find the following:
+
+Datasets:
+kc_house_data.csv (full project dataset)
+df_clean_1.csv (cleaned dataset)
+df_distance.csv (dataset containing approximated distance to water for each house)
+
+Jupyter notebooks:
+index_v.ipynb (data cleaning and investigation into seasonality and size against house price)
+regmodel.ipynb (regression model investigating relationship between distance to water and price)
+triangulation.ipynb (feature engineering to calculate approximate distance to water for each house)
+student.ipynb (project submission info)
+
+Other:
+column_names.md (glossary of column names for the project dataset)
+READMEFIRST.txt (the document you are looking at right now)
